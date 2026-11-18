@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PocketBiz</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_transactions">Transactions</string>
+    <string name="nav_invoices">Invoices</string>
+    <string name="nav_customers">Customers</string>
+    <string name="nav_reports">Reports</string>
+    <string name="action_add_transaction">Add Transaction</string>
+    <string name="action_settings">Business Settings</string>
+    <string name="offline_ready_badge">Offline Ready • Local Ledger</string>
+</resources>

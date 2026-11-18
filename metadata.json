@@ -1,0 +1,6 @@
+{
+  "name": "PocketBiz",
+  "description": "Offline-first smart business manager for tracking finances, invoices, customers, and business reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
